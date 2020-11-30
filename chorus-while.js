@@ -4,7 +4,7 @@ while (repeat < 10) {
   if (repeat === 5) {
     console.log("*change key*");
   }
-  console.log(`${repeat}-chorus`);
+  console.log(chorus);
   repeat++;
 }
 console.log("Until the sun comes up!");
